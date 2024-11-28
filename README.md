@@ -1,3 +1,7 @@
+# Slide
+
+[Slide](https://docs.google.com/presentation/d/1FyT9YO6xVIyzOEiYHCb2RfEIMZWqMCI5es8jxM1Vk10/edit?usp=sharing)
+
 # Introducing ClanSoon: Revolutionizing Web3 Investment
 
 ClanSoon is a cutting-edge platform that is transforming the way investors, venture capitalists, and project founders invest in early-stage Web3 startups. With a focus on community-driven investment, ClanSoon allows users to invest alongside like-minded individuals, pooling resources to invest in high-potential projects that may have otherwise been out of reach for individual investors.
